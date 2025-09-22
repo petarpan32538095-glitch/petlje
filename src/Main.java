@@ -46,9 +46,7 @@ public class Main {
         }while(number!=guessNumber);
 
         System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
+        System.out.println("Lazar Savatic");
 
 
 
